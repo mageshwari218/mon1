@@ -1,0 +1,28 @@
+***PROJECT OVER VIEW***
+this project uses machine learning classification to predict wheather a product will receive a high rating based on sales and customer related features.
+***OBJECTIVE:***
+high rating------1
+low rating-------0
+
+***TECHNOLOGIES USED***
+PYTHON 
+PANDAS
+NUMPY
+MATPLOTLIB
+SCIKIT-LEARN
+***PROJECT WORKFLOW:***
+1. DATA COLLECTION
+2.DATA PREPROCESSING
+3.FEATURE ENGINEERING
+4.ENCODING
+5.FEATURE SELECTION
+6.DATA SPLITTING
+7.FEATURE SCALLING
+8.MODEL TRAINING
+9.PREDICTION
+10.EVALUTION
+11.VISHUALIZATION
+
+
+
+
